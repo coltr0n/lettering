@@ -5,3 +5,9 @@
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+.word2,
+.word4 {
+	color: pink;
+	letter-spacing: -2px;
+}
